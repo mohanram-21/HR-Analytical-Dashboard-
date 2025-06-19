@@ -26,25 +26,11 @@ To build a data-driven, visually interactive dashboard that enables HR teams and
 Category	Tools
 
 Data Visualization	Power BI / Tableau / Excel
-Data Processing	Python / Pandas / Excel
-Data Source	CSV / Excel / HRMS Export
-Version Control	Git & GitHub
-Others	DAX (Power BI), SQL (optional)
 
-📂 Project Structure (Example):
-kotlin
-Copy
-Edit
-HR-Analytical-Dashboard/
-│
-├── data/
-│   └── employee_data.csv
-│
-├── scripts/
-│   └── preprocessing.ipynb
-│
-├── dashboard/
-│   └── HR_Dashboard.pbix
-│
-├── README.md
-└── .gitignore
+Data Processing	Python / Pandas / Excel
+
+Data Source	CSV / Excel / HRMS Export
+
+Version Control	Git & GitHub
+
+Others	DAX (Power BI), SQL (optional)
